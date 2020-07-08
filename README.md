@@ -30,10 +30,7 @@ Module 2: Working with Images and Logistic Regression
 PART 2: [Image Classfication using Logistic Regression](https://github.com/birajparikh16/Deep-Learning-with-Pytorch-Zero-to-GANs/blob/master/Notebooks/03-logistic-regression.ipynb)
 
 Mini Project:
-[MNIST Classification using linear regression](https://github.com/birajparikh16/Deep-Learning-with-Pytorch-Zero-to-GANs/blob/master/Projects/mnist-logistic-minimal/mnist-logistic.ipynb)
-
-
-Excercise 2: 
+[MNIST Classification using linear regression](https://github.com/birajparikh16/Deep-Learning-with-Pytorch-Zero-to-GANs/tree/master/Mini%20Projects/mnist-logistic-regression)
 
 Module 3: Training Deep Neural Networks on a GPU
 * Working with cloud GPU platforms like Kaggle & Colab
@@ -48,15 +45,21 @@ Module 4: Image Classification with Convolutional Neural Networks
 * Introduction to Convolutions, kernels & features maps
 * Underfitting, overfitting and techniques to improve model performance
 
+PART 4: [Training Deep Neural Networks on a GPU](https://github.com/birajparikh16/Deep-Learning-with-Pytorch-Zero-to-GANs/blob/master/Notebooks/05a-cifar10-cnn.ipynb)
+
 Module 5: Data Augmentation, Regularization and ResNets
 * Improving the dataset using data normalization and data augmentation
 * Improving the model using residual connections and batch normalization
 * Improving the training loop using learning rate annealing, weight decay and gradient clip
 * Training a state of the art image classifier from scratch in 10 minutes
 
+PART 5: [Training Deep Neural Networks on a GPU](https://github.com/birajparikh16/Deep-Learning-with-Pytorch-Zero-to-GANs/blob/master/Notebooks/05b-cifar10-resnet.ipynb)
+
 Module 6: Image Generation using Generative Adversarial Networks (GANs)
 * Introduction to generative modeling and application of GANs
 * Creating generator and discriminator neural networks
 * Generating and evaluating fake images of handwritten digits
 * Training the generator and discriminator in tandem and visualizing results
+
+PART 6: [Training Deep Neural Networks on a GPU](https://github.com/birajparikh16/Deep-Learning-with-Pytorch-Zero-to-GANs/blob/master/Notebooks/06b-anime-dcgan.ipynb)
 
