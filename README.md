@@ -11,15 +11,15 @@ Module 1: PyTorch Basics and Linear Regression
 * Gradient descent and model training with PyTorch Autograd
 * Linear Regression using PyTorch built-ins (nn.Linear, nn.functional etc.)
 
-PART 1 (A): [PyTorch Basics: Tensors & Gradients](https://github.com/birajparikh16/Deep-Learning-with-Pytorch-Zero-to-GANs/blob/master/Notebooks/01-pytorch-basics.ipynb)
+PART 1 (A): [PyTorch Basics: Tensors & Gradients](https://github.com/birajparikh16/Deep-Learning-with-Pytorch-Zero-to-GANs/blob/master/Notebooks/01-pytorch-basics.ipynb) \
 PART 1 (B): [Linear Regression & Gradient Descent](https://github.com/birajparikh16/Deep-Learning-with-Pytorch-Zero-to-GANs/blob/master/Notebooks/02-linear-regression.ipynb)
  
 Extras: [Pytorch Tensor 101](https://github.com/birajparikh16/Deep-Learning-with-Pytorch-Zero-to-GANs/blob/master/Excercise/01-tensor-operations.ipynb)
 
-Mini Project: 
+Mini Project: \
 [Insurance cost prediction using linear regression](https://github.com/birajparikh16/Deep-Learning-with-Pytorch-Zero-to-GANs/blob/master/Excercise/02-insurance-linear-regression.ipynb)
 
-[Housing price prediction using linear regression](https://github.com/birajparikh16/Deep-Learning-with-Pytorch-Zero-to-GANs/blob/master/Projects/housing-linear/housing-linear.ipynb)
+[Housing price prediction using linear regression](https://github.com/birajparikh16/Deep-Learning-with-Pytorch-Zero-to-GANs/blob/master/Mini%20Projects/housing-price-prediction-linear-regression/house-price-prediction-linear-regression.ipynb)
 
 Module 2: Working with Images and Logistic Regression
 * Working with images from the MNIST dataset
